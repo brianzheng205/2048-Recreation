@@ -1,0 +1,19 @@
+coordinates[0][0] = [128, 384];
+coordinates[0][1] = [256, 384];
+coordinates[0][2] = [384, 384];
+coordinates[0][3] = [512, 384];
+coordinates[1][0] = [128, 512];
+coordinates[1][1] = [256, 512];
+coordinates[1][2] = [384, 512];
+coordinates[1][3] = [512, 512];
+coordinates[2][0] = [128, 640];
+coordinates[2][1] = [256, 640];
+coordinates[2][2] = [384, 640];
+coordinates[2][3] = [512, 640];
+coordinates[3][0] = [128, 768];
+coordinates[3][1] = [256, 768];
+coordinates[3][2] = [384, 768];
+coordinates[3][3] = [512, 768];
+
+new_row = 0;
+total_score = 0;
